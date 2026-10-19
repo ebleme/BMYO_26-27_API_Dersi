@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\h05_sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\h05_sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Controllers\\TodoItemsController.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoItemsController.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Controllers\\TodoItemsController.cs",
-              "RelativeToolTip": "TodoApp\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwDYAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:59:47.843Z",
+              "WhenOpened": "2026-10-19T12:27:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261019122443_init.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019122443_init.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Migrations\\20261019122443_init.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019122443_init.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Migrations\\20261019122443_init.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:24:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Program.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Program.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Program.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:41:10.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "TodoApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Data\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Data\\AppDataContext.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Data\\AppDataContext.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Data\\AppDataContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:32:32.175Z"
+              "WhenOpened": "2026-10-19T11:08:09.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "TodoApp\\WeatherForecast.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\WeatherForecast.cs",
-              "RelativeToolTip": "TodoApp\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Models\\Book.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Models\\Book.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:32:26.262Z"
+              "WhenOpened": "2026-10-19T11:05:14.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Program.cs",
-              "RelativeToolTip": "TodoApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:16:53.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDataContext.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Data\\AppDataContext.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Data\\AppDataContext.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Data\\AppDataContext.cs",
-              "RelativeToolTip": "TodoApp\\Data\\AppDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T11:02:56.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\TodoApp\\Models\\TodoItem.cs",
-              "RelativeToolTip": "TodoApp\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T10:55:58.16Z"
+              "Title": "H05_SqlConnection",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\H05_SqlConnection.csproj",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\H05_SqlConnection.csproj",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\H05_SqlConnection.csproj",
+              "RelativeToolTip": "H05_SqlConnection\\H05_SqlConnection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T11:04:58.267Z",
+              "EditorCaption": ""
             }
           ]
         }

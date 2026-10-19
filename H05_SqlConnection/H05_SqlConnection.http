@@ -1,0 +1,6 @@
+@H05_SqlConnection_HostAddress = http://localhost:5178
+
+GET {{H05_SqlConnection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
