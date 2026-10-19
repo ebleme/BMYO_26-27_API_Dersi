@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|c:\\depo\\projeler\\kbu myo\\api_dersi\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CEF025-BB4D-4408-A853-427671162125}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:59:47.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:32:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TodoApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\WeatherForecast.cs",
+              "RelativeToolTip": "TodoApp\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:32:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:16:53.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDataContext.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Data\\AppDataContext.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Data\\AppDataContext.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Data\\AppDataContext.cs",
+              "RelativeToolTip": "TodoApp\\Data\\AppDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:02:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\API_Dersi\\TodoApp\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApp\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:55:58.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

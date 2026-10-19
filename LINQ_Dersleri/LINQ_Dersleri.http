@@ -1,0 +1,6 @@
+@LINQ_Dersleri_HostAddress = http://localhost:5017
+
+GET {{LINQ_Dersleri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
