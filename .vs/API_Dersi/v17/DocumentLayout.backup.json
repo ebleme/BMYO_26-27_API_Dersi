@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\migrations\\20261019122443_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\migrations\\appdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\data\\appdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\h05_sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\h05_sqlconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|c:\\depo\\projeler\\kbu myo\\bmyo_26-27_api_dersi\\h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA30D11D-7808-4531-A0ED-F149FC052CA2}|H05_SqlConnection\\H05_SqlConnection.csproj|solutionrelative:h05_sqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20261019131730_maxlenght.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Migrations\\20261019131730_maxlenght.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:17:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "RelativeToolTip": "H05_SqlConnection\\Migrations\\AppDataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:27:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20261019122443_init.cs",
               "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019122443_init.cs",
               "RelativeDocumentMoniker": "H05_SqlConnection\\Migrations\\20261019122443_init.cs",
               "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Migrations\\20261019122443_init.cs",
               "RelativeToolTip": "H05_SqlConnection\\Migrations\\20261019122443_init.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T12:24:43.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Program.cs",
               "RelativeDocumentMoniker": "H05_SqlConnection\\Program.cs",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "H05_SqlConnection\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T11:41:10.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T11:41:10.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AppDataContext.cs",
               "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Data\\AppDataContext.cs",
               "RelativeDocumentMoniker": "H05_SqlConnection\\Data\\AppDataContext.cs",
@@ -68,8 +100,7 @@
               "RelativeToolTip": "H05_SqlConnection\\Data\\AppDataContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T11:08:09.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T11:08:09.978Z"
             },
             {
               "$type": "Document",
@@ -79,23 +110,22 @@
               "RelativeDocumentMoniker": "H05_SqlConnection\\Models\\Book.cs",
               "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\Models\\Book.cs",
               "RelativeToolTip": "H05_SqlConnection\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T11:05:14.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "H05_SqlConnection",
+              "DocumentIndex": 6,
+              "Title": "H05_SqlConnection.csproj",
               "DocumentMoniker": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\H05_SqlConnection.csproj",
               "RelativeDocumentMoniker": "H05_SqlConnection\\H05_SqlConnection.csproj",
               "ToolTip": "C:\\Depo\\Projeler\\KBU MYO\\BMYO_26-27_API_Dersi\\H05_SqlConnection\\H05_SqlConnection.csproj",
               "RelativeToolTip": "H05_SqlConnection\\H05_SqlConnection.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-19T11:04:58.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T11:04:58.267Z"
             }
           ]
         }
