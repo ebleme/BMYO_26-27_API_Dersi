@@ -11,6 +11,6 @@ namespace H05_SqlConnection.Data
         {
         }
 
-        DbSet<Book> Books { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }

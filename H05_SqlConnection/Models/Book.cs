@@ -14,5 +14,6 @@ namespace H05_SqlConnection.Models
         public string Description { get; set; }
 
         public decimal Price { get; set; }
+        public bool Ok { get; set; } = true;
     }
 }
