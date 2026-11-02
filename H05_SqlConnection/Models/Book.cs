@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace H05_SqlConnection.Models
 {
@@ -15,5 +16,12 @@ namespace H05_SqlConnection.Models
 
         public decimal Price { get; set; }
         public bool Ok { get; set; } = true;
+
+
+        //public List<Author> Authors { get; set; }
+
+        [JsonIgnore]
+        public List<Print>? Prints { get; set; }
+
     }
 }

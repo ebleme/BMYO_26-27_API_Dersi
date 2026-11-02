@@ -47,7 +47,50 @@ namespace H05_SqlConnection.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Books");
+                    b.ToTable("Books", (string)null);
+                });
+
+            modelBuilder.Entity("H05_SqlConnection.Models.Print", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("TranslatorName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BookId");
+
+                    b.ToTable("Prints", (string)null);
+                });
+
+            modelBuilder.Entity("H05_SqlConnection.Models.Print", b =>
+                {
+                    b.HasOne("H05_SqlConnection.Models.Book", "Book")
+                        .WithMany("Prints")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Book");
+                });
+
+            modelBuilder.Entity("H05_SqlConnection.Models.Book", b =>
+                {
+                    b.Navigation("Prints");
                 });
 #pragma warning restore 612, 618
         }

@@ -12,5 +12,6 @@ namespace H05_SqlConnection.Data
         }
 
         public DbSet<Book> Books { get; set; }
+        public DbSet<Print> Prints { get; set; }
     }
 }
